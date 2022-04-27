@@ -1,0 +1,38 @@
+*{
+    font-family: sans-serif;
+}
+h1{
+    color: #8f0626;
+    margin: 0px;
+    padding: 15px;
+    border-top-style: double;
+    font-size: 40px;
+    border-bottom-style: double;
+    background-color:#fa8ca6;
+    width: 600px;
+}
+h2{
+    color:black;
+    margin: 0px;
+}
+h3{
+    margin: 0px;
+}
+h4{
+    color: blue
+}
+ul{
+    border: 2.5px solid;
+    width: 350px;
+    margin: 40px;
+    border-color: blue;
+    background-color: lightblue;
+    padding: 30px;
+}
+.a1{
+    color: blue;
+    font-size: 17px;
+}
+.c{
+    margin: 19px;
+}
